@@ -1,1 +1,1 @@
-# Variant-Calling-Quality-Filtering-and-used-of-the-Ensembl-Variant-Effect-Predictor-VEP-
+# Variant Calling, Quality Filtering, and Utilization of Ensembl Variant Effect Predictor (VEP)
